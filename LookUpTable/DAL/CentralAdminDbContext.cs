@@ -11,7 +11,14 @@ namespace LookUpTable.DAL
     {
         public CentralAdminDbContext(DbContextOptions options):base(options)
         {
-
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<CentralAdministration>().HasData(
+                new CentralAdministration { Name = "Test 1" },
+                new CentralAdministration { Name = "Test 2" },
+                new CentralAdministration { Name = "Test 3" }
+                );
         }
         public DbSet<CentralAdministration> CentralAdministrations { get; set; }
     }
