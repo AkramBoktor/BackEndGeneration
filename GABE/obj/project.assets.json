@@ -7157,7 +7157,6 @@
       "path": "microsoft.netcore.targets/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -7214,7 +7213,6 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -7523,11 +7521,7 @@
       ]
     },
     "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "zWLOQ77Y4FV/6Vw2g+FYzprbQX5/xKvjoCLe4L9159Aw1bSboQoJ1KRZFNdexDooWRAIsLSdE0ZokkrVkwN8Yw==",
-=======
       "sha512": "YNMy1J8g3fpmhFl0TnPNnoDkmeUknn4UMI1dQaNhFhO1oZhCYa2dMyMjs7Wgf4v18Srygr2iZZ2ysn1hOwZTqg==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7567,11 +7561,7 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "/p8IQT2brFMDa7BHMH71LV+w5Tb3OxoLHxhn6+MGqN5xeqhM2HRHmj+7xQGJnaRn73d7ZTvp6yRCFMvolws4wA==",
-=======
       "sha512": "l8F+lUGkLo2hujh3Si/u2Husdzb14NYGDcxw5ru/5oye0dWLE7Wq2nxTbsl8MrV6FftJfQMU+Y/wpkSIbNEfNw==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7584,11 +7574,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "T5NvFgmHX0WH4c7lP72krsnk+IJI10vJf2j2twGE+5QBRA4RyRAgD+ZjEgdmpLOjW4B+nZGaadewTCUcR899OQ==",
-=======
       "sha512": "/39L5g1zy53AlV9mvbeLbhJUTeX0We3uHRmkHlWBYxVFg92fgSK8Jvza+6YtPGxXzZa68/H+QkoOcWBmeJzQQg==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7601,11 +7587,7 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "JGc0pAWRE8lB4Ucygk2pYSKbUPLlAIq6Bczf5/WF2D/VKJEPtYlVUMxk8fbl1zRfTWzSHi+VcFZlaPlWiNxeKg==",
-=======
       "sha512": "zxwdklcNix+ZehwKAqTg9O+l+2o/hG+zB7H1nAv7KhKqnVEe0XYgmF3mU/xm4PXPH7hSuyLDoVbrEI1ecwdiSg==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7618,11 +7600,7 @@
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "YWzJvhiC+iLWI/IfpPQUIBhYnAHUFQFRDqR7VDNmPj0b3rjW7dArFqKysZ9v0iSBs9Ih4v9GasLpYCSUwADMQQ==",
-=======
       "sha512": "Qj80SWoSKn+ydSRzOyz3gs4H1E8P8LGe9qW4S0sxo3gAKaNO8DvOT0qiPiJNe9RtVkDJUwpsSq7qrcRnKJqLgw==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7635,11 +7613,7 @@
       ]
     },
     "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "1uVTITQP8/cI6YoO6FqfW1pzP0k2TnDZ3TFD88Bu/9H7ZuTsMY9xmadbGpwPu8w8swcd1ifZJsjD9hF9O6C/tg==",
-=======
       "sha512": "NNKEHz8cpCaYZF9XKrgl+yjVQZkoLFChi3YhSejh2SQ7rvGlWQaVWvwFnP9Pr7sGnF/SZ9VMPFOQlJWQRbuubA==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -8218,7 +8192,6 @@
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8370,7 +8343,6 @@
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9635,7 +9607,6 @@
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.3/System.Private.DataContractSerialization.dll",
@@ -10584,7 +10555,6 @@
       "path": "system.runtime.serialization.xml/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10905,11 +10875,7 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
-<<<<<<< HEAD
-      "sha512": "vOYy7Jv9KsG3ld2hLt0GoERd82SZi4BelrbXLwI9yFBYX7kpbvUCWYo4eyevk47cuJXZ9ZLVAryANcc7iY71aA==",
-=======
       "sha512": "Mk5IzVchofGBIIUUxZIY6JwZ5Po5L3X3lWhxzuSoKjPgceJeOGzJfu5pDYZd9VXi1D6lp104dwbTxKfd+q94Hg==",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -11920,7 +11886,6 @@
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12029,7 +11994,6 @@
       "path": "system.xml.xpath/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12109,31 +12073,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Software Team 3\\.nuget\\packages\\": {},
+    "C:\\Users\\software team\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "E:\\Github\\BackEnd Generation\\BackEndGeneration\\GABE\\GABE.csproj",
-      "projectName": "GABE",
-      "projectPath": "E:\\Github\\BackEnd Generation\\BackEndGeneration\\GABE\\GABE.csproj",
-      "packagesPath": "C:\\Users\\Software Team 3\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\BackEnd Generation\\BackEndGeneration\\GABE\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\software team\\Desktop\\gitRepo\\BackEndGeneration\\GABE\\GABE.csproj",
       "projectName": "GABE",
       "projectPath": "C:\\Users\\software team\\Desktop\\gitRepo\\BackEndGeneration\\GABE\\GABE.csproj",
       "packagesPath": "C:\\Users\\software team\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\software team\\Desktop\\gitRepo\\BackEndGeneration\\GABE\\obj\\",
->>>>>>> 5a23b6095d53b79ed036b4673b3c2d7e43e5b7dc
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Software Team 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\software team\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12182,5 +12138,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\software team\\Desktop\\gitRepo\\BackEndGeneration\\GABE\\obj\\GABE.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

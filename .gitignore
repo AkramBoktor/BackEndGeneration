@@ -1,2 +1,5 @@
 .vs/
 *.txt
+bin/
+obj/
+GABE.sln
